@@ -14,7 +14,6 @@
     "element-ui": "^2.3.2",
     "http-proxy-middleware": "^0.18.0",
     "js-md5": "^0.7.3",
-    "npm": "^6.9.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
